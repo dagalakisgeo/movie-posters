@@ -14,9 +14,9 @@
 To get a local copy up and running, follow these simple steps:
 
 1. Clone the repository:
-backticks git clone https://github.com/dagalakisgeo/movie-posters.git
+' git clone https://github.com/dagalakisgeo/movie-posters.git '
 2. Navigate to the project directory:
-backticks cd movie-posters
+' cd movie-posters '
 3. Open index.html in your web browser to view the project.
 
 
