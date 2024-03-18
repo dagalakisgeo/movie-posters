@@ -10,13 +10,18 @@
 * **CSS3**: For styling the webpage, ensuring a responsive and visually engaging layout.
 
 
+
 ## Setup
 To get a local copy up and running, follow these simple steps:
 
 1. Clone the repository:
-'git clone https://github.com/dagalakisgeo/movie-posters.git'
+   ```bash
+   git clone https://github.com/dagalakisgeo/movie-posters.git
+
 2. Navigate to the project directory:
-'cd movie-posters'
+  ```bash
+   git clone https://github.com/dagalakisgeo/movie-posters.git
+
 3. Open index.html in your web browser to view the project.
 
 
