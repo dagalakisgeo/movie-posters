@@ -1,16 +1,16 @@
 # The Poster Vault: A Collection of Movie Posters 
 
 
-### Project Overview
+## Project Overview
 "The Poster Vault" is a web-based gallery that displays a variety of movie posters, from classic to contemporary cinema. Each poster is accompanied by details about the film, such as the director's name and the year of release.
 
 
-### Technologies
-**HTML5**: For structuring the web page and its content.
-**CSS3**: For styling the webpage, ensuring a responsive and visually engaging layout.
+## Technologies
+* **HTML5**: For structuring the web page and its content.
+* **CSS3**: For styling the webpage, ensuring a responsive and visually engaging layout.
 
 
-### Setup
+## Setup
 To get a local copy up and running, follow these simple steps:
 
 Clone the repository:
